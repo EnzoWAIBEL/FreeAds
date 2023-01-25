@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    font-size: 40px;
+}
+button a {
+    padding: 15px;
+    text-decoration: none;
+    color: #333;
+}
